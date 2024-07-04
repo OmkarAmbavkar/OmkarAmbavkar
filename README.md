@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi There 👋, OMKAR AMBAVKAR</h1>
+<h1 align="center"> OMKAR AMBAVKAR</h1>
 <h3 align="center">"Aspiring Web Developer and TY B.Tech Student Ready to Innovate and Transform Web Applications"</h3>
 <img align="right" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMs952sRMcmzW2J5zfjGSZ3RANsTUceNtCuA&s">
 
