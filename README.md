@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aumkar.7420@gmail.com**
 
-- ⚡ Fun fact **ONE DAY OR DAY ONE**
+- ⚡ **ONE DAY OR DAY ONE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
