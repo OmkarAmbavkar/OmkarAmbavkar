@@ -106,8 +106,8 @@ A full-stack web app that automates personalized YouTube playlist generation and
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OmkarAmbavkar&show_icons=true&theme=transparent&hide_border=true&title_color=CBA35C&icon_color=CBA35C&text_color=8B8A90&hide_rank=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarAmbavkar&layout=compact&theme=transparent&hide_border=true&title_color=CBA35C&text_color=8B8A90&langs_count=6" height="150"/>
+<img src="https://github-stats-extended.vercel.app/api?username=OmkarAmbavkar&show_icons=true&theme=transparent&hide_border=true&title_color=CBA35C&icon_color=CBA35C&text_color=8B8A90&hide_rank=true" height="150"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=OmkarAmbavkar&layout=compact&theme=transparent&hide_border=true&title_color=CBA35C&text_color=8B8A90&langs_count=6" height="150"/>
 
 </div>
 
