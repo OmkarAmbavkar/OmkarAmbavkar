@@ -16,9 +16,7 @@ Computer Science graduate building **AI-powered automation** and full-stack appl
 
 <div align="center">
 
-| CGPA | Sentiment Model | Shipped Projects | F1-Score |
-|:---:|:---:|:---:|:---:|
-| 8.38 / 10.0 | 81% accuracy | 2+ | 87.5% |
+| N8n | Azure Openai | Power Automate | PowerBi |
 
 </div>
 
