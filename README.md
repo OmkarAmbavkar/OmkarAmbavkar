@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=building+AI-powered+automation;Python+·+React+·+Azure+OpenAI+·+n8n;state-level+cricketer+%7C+Tabla+Visharad&font=JetBrains+Mono&size=15&pause=1800&color=8B8A90&center=true&vCenter=true&width=560&height=30&background=00000000&vDelay=false"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=building+AI-powered+automation;Python+-+React+-+Azure+OpenAI+-+n8n;state-level+cricketer+%7C+Tabla+Visharad&font=JetBrains+Mono&size=15&pause=1800&color=8B8A90&center=true&vCenter=true&width=560&height=40&background=00000000"/>
 
 </div>
 
@@ -106,10 +106,8 @@ A full-stack web app that automates personalized YouTube playlist generation and
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=omkarambavkar&show_icons=true&theme=transparent&hide_border=true&title_color=CBA35C&icon_color=CBA35C&text_color=8B8A90&hide_rank=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarambavkar&layout=compact&theme=transparent&hide_border=true&title_color=CBA35C&text_color=8B8A90&langs_count=6" height="150"/>
-
-<sub>replace <code>omkarambavkar</code> with your GitHub username to activate</sub>
+<img src="https://github-readme-stats.vercel.app/api?username=OmkarAmbavkar&show_icons=true&theme=transparent&hide_border=true&title_color=CBA35C&icon_color=CBA35C&text_color=8B8A90&hide_rank=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarAmbavkar&layout=compact&theme=transparent&hide_border=true&title_color=CBA35C&text_color=8B8A90&langs_count=6" height="150"/>
 
 </div>
 
