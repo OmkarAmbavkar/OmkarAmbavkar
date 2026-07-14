@@ -1,0 +1,8 @@
+<svg width="1200" height="34" viewBox="0 0 1200 34" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="17" x2="1200" y2="17" stroke="#57565C" stroke-opacity="0.35" stroke-width="1"/>
+  <rect x="588" y="13" width="8" height="8" fill="#0A0A0C" stroke="#CBA35C" stroke-width="1" transform="rotate(45 592 17)"/>
+  <circle r="3" fill="#CBA35C">
+    <animateMotion dur="5s" repeatCount="indefinite" path="M0,17 H1200"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="5s" repeatCount="indefinite"/>
+  </circle>
+</svg>
