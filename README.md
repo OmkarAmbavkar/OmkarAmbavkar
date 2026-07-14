@@ -1,158 +1,163 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Omkar%20Ambavkar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Automation%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0C,50:17181B,100:0A0A0C&height=220&section=header&text=OMKAR%20AMBAVKAR&fontSize=48&fontColor=CBA35C&fontAlignY=38&desc=AI%20%26%20Automation%20Engineer%20%E2%80%94%20Mumbai,%20India&descAlignY=58&descColor=8B8A90&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A29BFE&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Launching+ideas+into+production+%F0%9F%9A%80;Python+%C2%B7+React+%C2%B7+Azure+OpenAI+%C2%B7+n8n;Turning+Data+into+Decisions" alt="Typing SVG" />
+<a href="https://linkedin.com/in/omkar-ambavkar">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+automation...;Python+%2B+React+%2B+Azure+OpenAI+%2B+n8n;State-level+cricketer+%F0%9F%8F%8F;Tabla+Visharad+%F0%9F%A5%81;Currently+interning+%40+Siemens;&font=JetBrains+Mono&size=20&pause=1200&color=CBA35C&center=true&vCenter=true&width=650&height=50&background=00000000"/>
+</a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=OmkarAmbavkar&color=a29bfe&style=for-the-badge&label=PROFILE+VISITS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6c5ce7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-ambavkar)
-[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-6c5ce7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarambavkar12@gmail.com)
+<img src="https://img.shields.io/badge/Status-Open_to_Work-CBA35C?style=for-the-badge&labelColor=0A0A0C"/>
+<img src="https://img.shields.io/badge/Currently-Siemens_Intern-0A0A0C?style=for-the-badge&labelColor=CBA35C&color=0A0A0C"/>
+<img src="https://img.shields.io/badge/CGPA-8.38%2F10-7C9A82?style=for-the-badge&labelColor=0A0A0C"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
-
-## 🛰️ Mission Control — About Me
-
-```yaml
-name:        Omkar Uday Ambavkar
-location:    Mumbai, India
-role:        Technical Intern @ Siemens Limited
-degree:      B.Tech, Computer Science Engineering — MIT-ADT University (2022–2026)
-cgpa:        8.38
-focus:       AI Automation · LLMs · OCR · Full-Stack Development · Cloud Integration
-currently:   Building AI-powered enterprise workflow automation with Azure OpenAI + n8n
-fun_fact:    Represented Mumbai State in Cricket (U-14 & U-16) 🏏 | Tabla Visharad 🎶
-```
-
 <br/>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
+## `01` ⟶ About
+
+Computer Science graduate building **AI-powered automation** and full-stack applications — currently interning at **Siemens**, wiring Python, React, Azure OpenAI and n8n into workflows that used to take humans hours. Off the keyboard: a *state-level cricketer* and a *Tabla Visharad*.
 
 <div align="center">
-<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/globe-showing-europe-africa_1f30d.gif" width="70"/>
+
+| 🎓 CGPA | 🎯 Sentiment Model | 🚀 Shipped Projects | 📊 F1-Score |
+|:---:|:---:|:---:|:---:|
+| **8.38 / 10.0** | **81% accuracy** | **2+** | **87.5%** |
+
 </div>
 
-## 🌌 Orbit Timeline — Experience
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
+## `02` ⟶ Where I've Worked
 
 <table>
-<tr>
-<td width="60%" valign="top">
+<tr><td>
 
-### 🛠️ Technical Intern — <b>Siemens Limited</b>
-<sub>Mar 2026 – Present</sub>
+**Technical Intern** · Siemens Limited
+`Mar 2026 — Present`
 
-- Built AI-powered automation using **Python, React, Azure OpenAI, n8n** to streamline enterprise workflows
-- Shipped AI apps combining **LLMs, OCR, REST APIs & Azure services**
-- Designed full-stack apps with automated reporting + cloud integration
-- Partnered cross-functionally to deliver scalable enterprise solutions
+- Built AI-powered automation solutions with Python, React, Azure OpenAI, and n8n to automate enterprise workflows
+- Developed AI applications combining LLMs, OCR, REST APIs, and Azure cloud services
+- Designed and deployed full-stack applications with automated reporting and cloud integration
+- Collaborated with cross-functional teams to deliver scalable enterprise solutions
 
-</td>
-<td width="40%" valign="top">
+<img src="https://img.shields.io/badge/Python-CBA35C?style=flat-square&logo=python&logoColor=black"/> <img src="https://img.shields.io/badge/React-CBA35C?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Azure_OpenAI-CBA35C?style=flat-square&logo=microsoftazure&logoColor=black"/> <img src="https://img.shields.io/badge/n8n-CBA35C?style=flat-square&logo=n8n&logoColor=black"/> <img src="https://img.shields.io/badge/OCR-CBA35C?style=flat-square"/>
 
-### 🎓 Education
-**MIT-ADT University**
-B.Tech CSE · CGPA 8.38
-*Sep 2022 – May 2026*
-
-**Patkar Varde College**
-HSC · 65.33%
-
-**VPMS Vidya Mandir**
-SSC · 95.80%
-
-</td>
-</tr>
+</td></tr>
 </table>
 
-## 🪐 Featured Missions — Projects
+**Education**
+
+| Institution | Degree | Years | Score |
+|---|---|:---:|:---:|
+| MIT-ADT University | B.Tech, Computer Science Engineering | 2022 – 2026 | 8.38 CGPA |
+| Patkar Varde College | HSC, Class XII — Goregaon | 2021 – 2022 | 65.33% |
+| VPMS Vidya Mandir | SSC, Class X — Dahisar | 2019 – 2020 | 95.80% |
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
+## `03` ⟶ Selected Builds
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 Sentiment Analysis for Product Reviews
-`Python` `NLP` `Pandas`
-- NLP sentiment model with feature engineering
-- **81% accuracy · 87.5% F1-score**
-- Evaluated with standard classification metrics
+An NLP pipeline that reads raw product reviews and classifies sentiment — built with Python and classic ML, tuned through text preprocessing and feature engineering.
+
+`81%` Accuracy · `87.5%` F1-score · Shipped 2026
+
+<img src="https://img.shields.io/badge/Python-0A0A0C?style=flat-square&logo=python&logoColor=CBA35C"/> <img src="https://img.shields.io/badge/NLP-0A0A0C?style=flat-square&logoColor=CBA35C"/> <img src="https://img.shields.io/badge/Pandas-0A0A0C?style=flat-square&logo=pandas&logoColor=CBA35C"/>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📺 Detoxify — YouTube Feed Realignment
-`Node.js` `Puppeteer` `YouTube Data API`
-- Full-stack tool for personalized playlist curation
-- Automated content filtering via YouTube Data API
-- Responsive UI + backend for feed management
+### 📺 Detoxify — YouTube Feed Realignment Tool
+A full-stack web app that automates personalized YouTube playlist generation and content filtering, so your feed reflects what you want to watch — not what the algorithm wants.
+
+`Full Stack` build · `API` driven · Shipped 2025
+
+<img src="https://img.shields.io/badge/Node.js-0A0A0C?style=flat-square&logo=node.js&logoColor=CBA35C"/> <img src="https://img.shields.io/badge/Puppeteer-0A0A0C?style=flat-square&logo=puppeteer&logoColor=CBA35C"/> <img src="https://img.shields.io/badge/YouTube_API-0A0A0C?style=flat-square&logo=youtube&logoColor=CBA35C"/>
 
 </td>
 </tr>
 </table>
 
-## 🔭 Tech Stack — Instruments Aboard
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
+## `04` ⟶ Tools of the Trade
 
 <div align="center">
 
 **Languages**
-![Python](https://img.shields.io/badge/-Python-0f0c29?style=for-the-badge&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/-C++-0f0c29?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-0f0c29?style=for-the-badge&logo=openjdk&logoColor=E63A17)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<br/>
+<img src="https://img.shields.io/badge/Python-0A0A0C?style=for-the-badge&logo=python&logoColor=CBA35C"/> <img src="https://img.shields.io/badge/C++-0A0A0C?style=for-the-badge&logo=cplusplus&logoColor=CBA35C"/> <img src="https://img.shields.io/badge/Java-0A0A0C?style=for-the-badge&logo=openjdk&logoColor=CBA35C"/> <img src="https://img.shields.io/badge/JavaScript-0A0A0C?style=for-the-badge&logo=javascript&logoColor=CBA35C"/>
 
-**Web**
-![HTML5](https://img.shields.io/badge/-HTML5-0f0c29?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-0f0c29?style=for-the-badge&logo=css3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-0f0c29?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Cloud & AI**
-![Azure OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-0f0c29?style=for-the-badge&logo=microsoftazure&logoColor=0089D6)
-![Azure](https://img.shields.io/badge/-Azure%20AI%20Doc%20Intelligence-0f0c29?style=for-the-badge&logo=microsoftazure&logoColor=0089D6)
-
-**Databases**
-![SQL](https://img.shields.io/badge/-SQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/-MongoDB-0f0c29?style=for-the-badge&logo=mongodb&logoColor=47A248)
+**Web & Data**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-0A0A0C?style=for-the-badge&logo=html5&logoColor=CBA35C"/> <img src="https://img.shields.io/badge/CSS3-0A0A0C?style=for-the-badge&logo=css3&logoColor=CBA35C"/> <img src="https://img.shields.io/badge/React-0A0A0C?style=for-the-badge&logo=react&logoColor=CBA35C"/> <img src="https://img.shields.io/badge/SQL-0A0A0C?style=for-the-badge&logo=postgresql&logoColor=CBA35C"/> <img src="https://img.shields.io/badge/MongoDB-0A0A0C?style=for-the-badge&logo=mongodb&logoColor=CBA35C"/>
 
 **Automation & Tools**
-![n8n](https://img.shields.io/badge/-n8n-0f0c29?style=for-the-badge&logo=n8n&logoColor=EA4B71)
-![Power Automate](https://img.shields.io/badge/-Power%20Automate-0f0c29?style=for-the-badge&logo=microsoftpowerautomate&logoColor=0066FF)
-![Git](https://img.shields.io/badge/-Git-0f0c29?style=for-the-badge&logo=git&logoColor=F05032)
-![Power BI](https://img.shields.io/badge/-Power%20BI-0f0c29?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Tableau](https://img.shields.io/badge/-Tableau-0f0c29?style=for-the-badge&logo=tableau&logoColor=E97627)
+<br/>
+<img src="https://img.shields.io/badge/n8n-0A0A0C?style=for-the-badge&logo=n8n&logoColor=CBA35C"/> <img src="https://img.shields.io/badge/Power_Automate-0A0A0C?style=for-the-badge&logo=microsoftpowerautomate&logoColor=CBA35C"/> <img src="https://img.shields.io/badge/Git-0A0A0C?style=for-the-badge&logo=git&logoColor=CBA35C"/> <img src="https://img.shields.io/badge/Power_BI-0A0A0C?style=for-the-badge&logo=powerbi&logoColor=CBA35C"/> <img src="https://img.shields.io/badge/Tableau-0A0A0C?style=for-the-badge&logo=tableau&logoColor=CBA35C"/> <img src="https://img.shields.io/badge/Excel-0A0A0C?style=for-the-badge&logo=microsoftexcel&logoColor=CBA35C"/>
+
+**Cloud & AI**
+<br/>
+<img src="https://img.shields.io/badge/Azure_OpenAI-0A0A0C?style=for-the-badge&logo=microsoftazure&logoColor=CBA35C"/> <img src="https://img.shields.io/badge/Azure_AI_Document_Intelligence-0A0A0C?style=for-the-badge&logo=microsoftazure&logoColor=CBA35C"/> <img src="https://img.shields.io/badge/Azure_Blob_Storage-0A0A0C?style=for-the-badge&logo=microsoftazure&logoColor=CBA35C"/>
 
 </div>
 
-## 📡 Signal Feed — GitHub Stats
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=OmkarAmbavkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a29bfe&icon_color=a29bfe&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarAmbavkar&theme=tokyonight&hide_border=true&background=0d1117&stroke=a29bfe&ring=a29bfe&fire=a29bfe" width="42%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarAmbavkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a29bfe&text_color=c9d1d9" width="40%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarAmbavkar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a29bfe&line=a29bfe&point=ffffff" width="90%"/>
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/OmkarAmbavkar/OmkarAmbavkar/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-<sub>⚙️ Snake auto-generates once the <code>snake.yml</code> GitHub Action (below) runs on this repo</sub>
-</div>
-
-## 📞 Ground Station — Contact
+## `05` ⟶ Beyond the Screen
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/omkarambavkar12@gmail.com-6c5ce7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarambavkar12@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/omkar--ambavkar-6c5ce7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-ambavkar)
-[![Phone](https://img.shields.io/badge/+91%209324863013-6c5ce7?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919324863013)
-
-<sub>⚡ "One day or day one."</sub>
+🏏 **Mumbai State U-14 & U-16 Cricket** — represented Mumbai State, long before automation pipelines it was cover drives
+<br/>
+🏆 **All India Inter-University Cricket** — represented MIT University
+<br/>
+🥁 **Tabla Visharad** — formally trained and certified, rhythm and precision on and off the keyboard
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer"/>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
+## `06` ⟶ GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=omkarambavkar&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0C&title_color=CBA35C&icon_color=CBA35C&text_color=8B8A90" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarambavkar&theme=dark&hide_border=true&background=0A0A0C&ring=CBA35C&fire=CBA35C&currStreakLabel=CBA35C" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarambavkar&theme=react-dark&bg_color=0A0A0C&color=CBA35C&line=CBA35C&point=F5F3EE&hide_border=true" width="90%"/>
+
+<sub>Swap <code>omkarambavkar</code> above for your actual GitHub username to activate these.</sub>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
+## `07` ⟶ Let's Build Something Worth Automating
+
+<div align="center">
+
+Open to internships, full-time roles, and interesting problems in AI, automation, and full-stack engineering.
+
+[![Email](https://img.shields.io/badge/Email-omkarambavkar12%40gmail.com-CBA35C?style=for-the-badge&logo=gmail&logoColor=black)](mailto:omkarambavkar12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-omkar--ambavkar-CBA35C?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/omkar-ambavkar)
+[![Phone](https://img.shields.io/badge/Call-%2B91_93248_63013-CBA35C?style=for-the-badge&logo=whatsapp&logoColor=black)](tel:+919324863013)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=omkarambavkar&label=Profile+Views&color=CBA35C&style=for-the-badge"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0C,50:17181B,100:0A0A0C&height=120&section=footer"/>
 
 </div>
