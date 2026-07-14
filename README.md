@@ -17,6 +17,7 @@ Computer Science graduate building **AI-powered automation** and full-stack appl
 <div align="center">
 
 | N8n | Azure Openai | Power Automate | PowerBi |
+|:---:|:---:|:---:|:---:|:---:|
 
 </div>
 
